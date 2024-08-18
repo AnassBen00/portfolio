@@ -171,6 +171,10 @@ section {
     margin: auto 0; 
 }
 
+.second-profile-pic {
+    transform: translateX(100px);
+}
+
 .section-text {
     align-self: center;
     text-align: center;
